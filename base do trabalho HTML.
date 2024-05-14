@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Futebol de rua</title>
-		<link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="programa CSS.">
 	</head>
 	<body>
 		<header>
@@ -30,7 +30,7 @@
 				<li class="itens">Profissionais Qualificados</li>
 			</ul>
 
-			<img src="banner-home.jpg" class="imagem-beneficios">
+			<img src="banner-home.jpg" class="imagem-banner-home">
 		</div>
 	</body>
 </html>
