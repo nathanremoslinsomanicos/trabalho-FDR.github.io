@@ -9,15 +9,15 @@
 		<header>
 			<h1 class="titulo-principal"Futebol de Rua</h1>
 		</header>
-		<img id="banner" src="banner.jpg">
+		<img id="banner" src="banner.jpg.png">
 		<div class="principal">
-			<h2 class="titulo-secundario">Sobre a Barbearia Alura</h2>
+			<h2 class="titulo-secundario">Sobre o Futebol de Rua</h2>
 	 
-			<p>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
+			<p>Localizada no coração do parque peladeiro o <strong>Futebol de Rua</strong> Oferece uma série de benefícios que abrangem aspectos físicos e mentais. Também promove a saúde e o bem-estar, combatendo o sedentarismo e reduzindo o risco de doenças crônicas.</p>
 
-			<p id="missao"><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
+			<p id="missao"><em>Nossa missão é: <strong>"Superar desigualdades e estimular o protagonismo de crianças e adolescentes em situação de vulnerabilidade social, promovendo a inclusão esportiva, educacional, cultural, tecnológica e ao mundo do trabalho."</strong>.</em></p>
 
-			<p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+			<p>Nossa metodologia exclusiva alia o futebol de rua com as aulas de formação humana no qual: regra nº1 o Fair Play, o gol vale menos que o drible e os alunos são os árbitros de seus próprios jogos.</p>
 		</div>
 
 		<div class="beneficios">
